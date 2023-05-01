@@ -1,0 +1,11 @@
+{
+    "name" : "Get Cricket Matches",
+    "version": "1.0.0",
+    "description": "Best One",
+    "manifest_version": 3,
+    "author": "suyash shirtar",
+    "action": {
+        "default_popup": "index.html",
+        "default_title": "My Chrome Extention"
+    }
+}
